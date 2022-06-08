@@ -24,13 +24,15 @@ Se le conoce como el punto de unión de 3 o más ramas. Es importante mencionar 
 MALLA
 Una malla es el camino que forman 2 o más ramas de un circuito. Además en una malla la suma de todas las tensiones, cada una con su signo correspondiente, es igual a 0 (Ley de los voltajes de Kirchhoff). Esto se da porque la suma de todas las subidas de tensión debe ser igual a la suma de todas las caídas de tensión.
 
+GRÁFICO DE RECONOCIMIENTO DE RAMAS, NODOS Y MALLAS
+
+
 ![image](https://user-images.githubusercontent.com/105291794/172507640-0884b6c2-a669-4f54-bad3-7f7542a2cd89.png)
 
-GRÁFICO DE RECONOCIMIENTO DE RAMAS, NODOS Y MALLAS
+ANÁLISIS DE MALLAS
 
 ![image](https://user-images.githubusercontent.com/105291794/172507655-5ed590a5-9f0c-4dc2-add0-288c73ae3d26.png)
 
-ANÁLISIS DE MALLAS
 
 ![image](https://user-images.githubusercontent.com/105291794/172507979-87e8eac2-99f8-4e90-bf56-b77f251819c4.png)
 
